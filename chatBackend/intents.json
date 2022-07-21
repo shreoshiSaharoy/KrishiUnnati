@@ -34,26 +34,26 @@
       {
         "tag": "KrishiUnnati",
         "patterns": [
-          "What is KrishiUnnati?",
+          "What is Krishi Unnati?",
           "Why use this website?",
-          "how will you help farmers?"
+          "How will you help farmers?"
         ],
         "responses": [
-          "we provide online help to farmers in remote areas",
-          "our website is very easy to use"
+          "We provide online help to farmers in remote areas.",
+          "Our website is very easy to use."
         ]
       },
       {
         "tag": "diseases",
         "patterns": [
           "Can you help me to identify and diagnose the plant disease?",
-          "solution for plant disease",
-          "how to find out about plant disease and cure?",
-          "can you help me with this crop disease?"
+          "Solution for plant disease?",
+          "How to find out about plant disease and cure?",
+          "Can you help me with this crop disease?"
         ],
         "responses": [
-          "yes we have a feature to identify plant diseases",
-          "you can use the plant identification feature!"
+          "Yes we have a feature to identify plant diseases",
+          "You can use the plant identification feature!"
         ]
       },
       {
@@ -61,37 +61,93 @@
         "patterns": [
           "How can I signup?",
           "How to register?",
-          "Do i need email?",
-          "can i use aadhar number?"
+          "Do I need email?",
+          "Can I use my aadhar number?"
         ],
         "responses": [
-          "Click on the signup button on the top right to signup",
-          "you can signup using your email ID"
+          "Click on the signup button on the top right to signup.",
+          "You can signup using your email ID."
         ]
       },
       {
         "tag": "contact",
         "patterns": [
           "How to contact you?",
-          "do you have email?",
-          "what is your customer care number?"
+          "Do you have email?",
+          "What is your customer care number?"
         ],
         "responses": [
-          "we have an email xxxxxxx",
-          "the customer care number is xxxxxxx"
+          "We have an email xxxxxxx",
+          "The customer care number is xxxxxxx"
         ]
       },
       {
         "tag": "weather",
         "patterns": [
-          "tell me about weather forecast",
-          "how will be the weather?",
-          "what is today's temperature"
+          "Tell me about the weather forecast",
+          "How will be the weather?",
+          "What is today's temperature"
         ],
         "responses": [
-          "you can click on the map to see weather forecast",
+          "You can click on the map to see the weather forecast",
           "We have a feature to display weather forecast!"
         ]
-      }
+      },
+      
+      {
+        "tag": "Features",
+        "patterns": [
+          "What are the Features of this website?",
+          "What help does it offer?",
+          "What can I use from this website?",
+          "Features of KrishiUnnati"
+        ],
+        "responses": [
+          "We offer Plant and it's Disease's Identifaction,Forum,ChatBot,Voice Assistant,Weather Prediction,A list of Govt Schemes helpful for farmers, 
+            Whatsapp Bot,SMS Bot,IVR service.",
+          "Our Features are : Plant and it's Disease's Identifaction,Forum,ChatBot,Voice Assistant,Weather Prediction,A list of Govt Schemes helpful for farmers, 
+            Whatsapp Bot,SMS Bot,IVR service."
+        ]
+      },
+      
+      {
+        "tag": "forum",
+        "patterns": [
+          "What is forum",
+          "What can i do with forum",
+          "What does forum do"
+        ],
+        "responses": [
+          "It is a peer-to-peer consultation platform where the farmers will be able to connect with farmers 
+           as well as experts from all over the country",
+          "Farmers can come in contact with other farmers to ask for help and give advice to each other"
+        ]
+      },
+
+      {
+        "tag": "VoiceAssistant",
+        "patterns": [
+          "What is the voice assistant",
+          "How does Voice Assistant work"
+        ],
+        "responses": [
+          "The Voice Assistant is a guide through the website. You just need to speak and it will help with anything you want.",
+          "You just need to speak and the Voice Assistant will guide you and explain everything you want to know about the website."
+        ]
+      },
+
+      {
+        "tag": "farming",
+        "patterns": [
+          "How to contact soil centres",
+          "What disease does my crop have",
+          "How do I sell my product here"
+        ],
+        "responses": [
+          "You can find the number to your nearest centre in this xxxxxx section",
+          "To know about your plants disease please go to the Plant/Disease Identification column and upload the picture of your plant"
+          "You can go to forum to sell or rent any product"
+        ]
+      },
     ]
   }
